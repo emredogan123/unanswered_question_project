@@ -26,7 +26,6 @@ This project analyzes customer conversations collected from the DüğünBuketi p
 | message                          | answered | sentiment | category       | intent              |
 |----------------------------------|----------|-----------|----------------|---------------------|
 | "Do you have availability in May?" | No       | Neutral   | Wedding Venue  | Asking for info     |
-| "Thank you, that's very helpful!" | Yes      | Positive  | -              | -                   |
 
 ## 📌 Notes
 
@@ -43,4 +42,3 @@ Final output should be saved as:
 
 ---
 
-Let us know if you have any questions or need the labeled dataset to start!
