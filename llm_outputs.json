@@ -1,0 +1,1102 @@
+[
+  {
+    "conversation_id": "9f1fad6e-0bc9-4fdf-b0e8-dc6da287b031",
+    "message_id": "9f1fae7e-22c0-4270-b546-e5d96aa462d2",
+    "message_text": "Davet sayısını 600 e çekelim o zaman",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f1fb51c-a029-4691-973d-63772a5f82ab",
+    "message_id": "9f1fb6af-a40d-4d23-8299-60a87d6746de",
+    "message_text": "Adıyaman Kahta köşk düğün salonu",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f1fb55f-544f-4c63-bcf0-4bba9aa984d5",
+    "message_id": "9f1fb730-0afa-42f0-a463-2a43edff0400",
+    "message_text": "Peki uygun fiyata olnine site bula bilirmisib",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f1fc574-98e7-4e66-b86c-e77c51347f3b",
+    "message_id": "9f1fc5fb-5df7-4fc3-8743-7675faf1a485",
+    "message_text": "Düğün mekanı",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f1fd866-240c-42d0-a3b5-84133bcba6fb",
+    "message_id": "9f1fd92b-4f45-4469-9930-19fe097bc91a",
+    "message_text": "https://images.app.goo.gl/cid7SnWHy1pyLv118",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f1fda47-f4d0-4293-ac53-8b46ff243af4",
+    "message_id": "9f1fdb2e-36dc-4195-a9e5-d0af8f0e94a0",
+    "message_text": "Fiyatı ne kadar",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f208c53-9dd0-4a3c-bcfc-2e880230d355",
+    "message_id": "9f208ce3-c51e-4874-8daf-092787abe7d3",
+    "message_text": "100",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f209ce4-52c0-4749-87a6-4dd467d90ad3",
+    "message_id": "9f20a3dc-7cd5-4df6-8300-08549a5c8ea4",
+    "message_text": "28 haziran akşam saatlerinde  yemek - pasta - ve fotoğraf video çekimi içinde 50 kişilik fiyat teklifi alabilir miyim",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f20adf9-c1fe-48cf-9764-9295851df285",
+    "message_id": "9f20ae9a-e9b4-48aa-9101-9a32f298852f",
+    "message_text": "Hicbiri",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f20b600-d0ba-4b3b-8a79-fbc063130a19",
+    "message_id": "9f20b69e-89e3-44f9-b789-6ca7a1f9e291",
+    "message_text": "Gebze sadece",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f20bc62-12c6-45de-ac67-15fbdb278451",
+    "message_id": "9f20be86-51c5-4917-a574-4572f3057429",
+    "message_text": "Sence hangisi daha iyi? Karar vermekte zorlanıyorum.",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f20d064-7c3a-4319-969d-8861296da451",
+    "message_id": "9f20d17f-038b-4965-9f30-fb539c4606a4",
+    "message_text": "Deniz kenarı",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f211352-2622-4515-ba21-855cad8650a7",
+    "message_id": "9f2114f4-b233-46df-84b8-31bd234fa5e2",
+    "message_text": "Defne",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2120f9-66af-450e-b741-02e0095f1907",
+    "message_id": "9f212219-f536-48db-b7bf-6c24106a1d9c",
+    "message_text": "evet bakabilirsiniz",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f216298-e98d-4d12-b3d8-a42064b21293",
+    "message_id": "9f21633b-ba51-4cd9-8d6a-712c94948106",
+    "message_text": "kapalı",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2163e4-68fd-4d5d-9be5-de2597a39773",
+    "message_id": "9f216754-0b17-410e-9eee-2107ab769e5f",
+    "message_text": "Aynı paket program",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2193d3-f217-4b47-8ade-13906b44764d",
+    "message_id": "9f2196fa-3658-4763-94df-ded9824810a7",
+    "message_text": "120 bin",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f21967e-3589-40cf-8023-6d342f58e416",
+    "message_id": "9f21969e-5f2a-41b8-8bb1-1657d05d0a6c",
+    "message_text": "Ankara Keçiören",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f21d05d-9f1a-477a-8276-06535e16b336",
+    "message_id": "9f21d12c-3f9e-4294-ab28-edf6d87754c2",
+    "message_text": "2 kisiyiz pazartesi günü ve boyama yapmamıza izin verecek bir kafe",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f21d0f2-6e96-4c94-9888-510527d2fbfc",
+    "message_id": "9f21fac8-7958-43ef-904e-71f22e4ab945",
+    "message_text": "Bende bu ürünleri six gödereçek sandıydım",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f227c7c-7b0c-4566-8e9a-d7626f228fea",
+    "message_id": "9f227e5c-8c75-40e4-84db-9c350b06f296",
+    "message_text": "10.000 ila 80.000 arası",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f22e60c-cf0d-4aee-a17a-2bab82bd15f6",
+    "message_id": "9f22e747-a1f1-4be8-8874-e12e3f23653e",
+    "message_text": "500tl ve 1000tl arası",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f22fd33-9a09-4314-820e-9e194b0614f3",
+    "message_id": "9f22ff67-5716-4a27-98fb-509bb9386c51",
+    "message_text": "700 tl",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2300ed-b63a-4b76-8274-3a91d6a7de35",
+    "message_id": "9f230392-4add-4208-90d6-fd0a32bbfb7c",
+    "message_text": "2025 ağustos ayı içerisinde bir haftasonu, yaklaşık 50 daveetli olacak, yemekli ve içkili olacak, mekan olarak deniz kenarı plaj olabilir ya da kır olabilir. Bütçe kişi başı max 1000 tl",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f23488b-041a-4c65-8892-2ae25811bd2c",
+    "message_id": "9f234979-1824-47b8-abc4-8580cafbce14",
+    "message_text": "İstanbul/Ataşehirde yapmak istiyoruz,18/06/2025 tarihinde, yaklaşık 20 kişi ile yemek rezervasyonlu ve kişi başı yaklaşık 900-1000 TL arası olan müzikli bir mezuniyet töreni istiyoruz ve açık veya kapalı farketmez mekan olarak",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2356ed-5b73-42c0-b8b7-af7bd2f0a56a",
+    "message_id": "9f23578c-1086-43ba-ab65-cb3bd31afef4",
+    "message_text": "Ekle",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f236564-0fbb-4bf0-864b-98f51fb6358c",
+    "message_id": "9f236960-5cd7-46ce-b2f4-c5cb5001e62e",
+    "message_text": "Kendim gelsem turizm acentesi neden bağımsız daha ekonomik olmaz mı",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f239f9c-aec9-4a74-b021-6490deb91b62",
+    "message_id": "9f23a027-335c-46c7-98f0-d21614b38752",
+    "message_text": "Açık alan, sosyal tesis",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f24180f-2d62-4e37-8e2a-603b8a03e005",
+    "message_id": "9f2418c8-8b9d-42e4-9bdd-36a3e42528ed",
+    "message_text": "20 haziran?",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f24d36d-271b-434f-a5b3-4858a1bffec8",
+    "message_id": "9f24e3c5-1119-4ad0-846d-4b726403e568",
+    "message_text": "Tamam canım",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f24d47a-5242-43f1-ae9b-45276f6da2f5",
+    "message_id": "9f24d55c-44d2-408d-bb98-89ac76bc4d66",
+    "message_text": "Evet",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f24e2a8-7ca1-4ddd-b4b7-c6dbffc3f1d1",
+    "message_id": "9f24e31a-e554-447b-97c2-17b96b896f78",
+    "message_text": "24-25 eylül arası 600 kişilik nişan mekânı yemeksiz",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f252c88-81a7-45db-a980-bb7725d7542a",
+    "message_id": "9f252de4-bc8f-4a7f-9397-abe1622fe1ea",
+    "message_text": "Diyarbakır dışında da olur",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f253790-6c9d-4646-ae90-75eac76d6e4e",
+    "message_id": "9f2538bc-646d-4116-a0df-118e316260cb",
+    "message_text": "Ama size resmi iletemiyorum",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f255140-e9b2-4a6c-9bd0-0b3121a0cbe0",
+    "message_id": "9f2552a2-15e6-49ff-9128-0899b199807b",
+    "message_text": "BAYRAKLI FOLKART KARŞSINDAKİ DÜĞÜN SALONLARI NE KADAR ACABA?",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f25a4aa-5206-4aea-b969-b35d7b120848",
+    "message_id": "9f25a4cb-5a25-41cd-8ecd-15ce0c0b1370",
+    "message_text": "Van İpekyolu",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f25b85b-d20a-4193-905d-d14a0d76da5b",
+    "message_id": "9f25ba16-72c2-466d-b165-c9a423f5c1a9",
+    "message_text": "İkramsız istiyorum",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f270cca-ab5b-4548-bfc1-f99f10a1da8f",
+    "message_id": "9f270cfb-ee27-4108-9f42-434b1b5f92fe",
+    "message_text": "Her ikisi",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f275d6c-4a4c-4ce9-aacd-f8ac8506fa6d",
+    "message_id": "9f275efe-084b-4ff2-b90e-31e312408152",
+    "message_text": "altındağ",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f275f9c-82af-43c4-af58-8a87b0a387f2",
+    "message_id": "9f276147-2446-4e5f-af38-19c8be5b416e",
+    "message_text": "sadece meşrubat",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f276569-a9ec-48a3-8df6-66550a940ab1",
+    "message_id": "9f278818-32be-481a-bd14-4bc210e36ce0",
+    "message_text": "hafta sonu gündüz saat 15.00 da",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2769b8-6f2e-4526-b641-5e22a1c4f207",
+    "message_id": "9f276a58-096c-4f7e-847e-a59ce9ce1fcc",
+    "message_text": "Uçak dahil her şey dahil su üstü bungalov",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2792e9-8dbe-46e2-a732-d12f7e821167",
+    "message_id": "9f27945f-c20b-4431-9275-d84e1f027895",
+    "message_text": "Kişi başı 1.000 civarı",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f27b3c9-c52a-453b-b10b-bc9b523fbb7e",
+    "message_id": "9f27b49f-2f11-482f-b5f1-a7bc23caaab0",
+    "message_text": "Gebze magaza",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f27d8f1-360a-4966-9023-54021ed2b4c0",
+    "message_id": "9f27daaa-3455-4aad-8e5f-d000ac88048e",
+    "message_text": "Ola bilir",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f27fde7-2b5a-432d-95ed-d360468e91bd",
+    "message_id": "9f27feff-7d40-4e68-bbb4-367218bb843d",
+    "message_text": "100.000,00 tl bütçe ile liva otelde 250 kisi yemeksiz",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f27fe9a-5968-4ec3-b3aa-8cf0baa27dfd",
+    "message_id": "9f28023e-ee49-4051-ba10-03c9200fe9ac",
+    "message_text": "Başka uygun bütçeli kına konağı yok mu ankarada",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f287f40-84bd-4816-8779-91ce748bc84d",
+    "message_id": "9f288199-faa9-4aa8-a0f0-cf6658fd3858",
+    "message_text": "Çok teşekkür ederim evet memnunum",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f28b012-1621-441b-9589-20b13928ff6c",
+    "message_id": "9f28b28e-cb45-4fe3-9e0f-a63dbfb642f4",
+    "message_text": "fikir almak için mükemmel bir hizmet sunuyorsunuz inşallah model elbisesi sectigim zaman daha çok memnun olacağım",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f28b667-92c4-49d3-9831-fc2586a017f8",
+    "message_id": "9f28b77a-779a-4fee-a56f-500e8c3e15f7",
+    "message_text": "Cercle d'orient olmaz mı",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f28f9c6-67a0-4702-9e45-3b7148899a9f",
+    "message_id": "9f28fb23-fb4a-4f23-a314-4b49e13efe5a",
+    "message_text": "Her ikisi",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f294708-57ce-4977-abaa-48201834e6af",
+    "message_id": "9f29486f-80ca-4e16-951f-42ae5625e06e",
+    "message_text": "350 kişi sayısı bütçe değil",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f29605a-6ef1-4558-a2ba-c07a575c9523",
+    "message_id": "9f29640d-7fb5-4ee4-bf78-621bc160b71e",
+    "message_text": "Tamamdır ehpini içeren bir paket olsun",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2985fa-d6b9-48e0-9ab3-b78056b1c779",
+    "message_id": "9f298787-85af-49c7-a5aa-92d5a9862397",
+    "message_text": "Tşk ederim",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2988a3-2226-4afb-9208-974518283b26",
+    "message_id": "9f298973-5d15-4434-b31a-747066beb13d",
+    "message_text": "Şehitkamil",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f29bd43-d2d4-43cb-b719-6da3a53890f5",
+    "message_id": "9f29c19d-6b19-41d0-951c-6ff775dd014d",
+    "message_text": "SHEYALTOPCU",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2a1822-0da1-466f-855f-80e1449bbe8c",
+    "message_id": "9f2a233e-8c13-4a64-9a77-cebe1166afcd",
+    "message_text": "Iyi günler",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2ace8f-789a-4429-94af-1f857c8586bd",
+    "message_id": "9f2acf12-058f-4fc9-9d81-76a7e783dc34",
+    "message_text": "Yüzbir toplam bütçe 100 bin tl",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2adfa1-861a-4ac6-bd89-a5642ca33436",
+    "message_id": "9f2adfe2-0baf-4b86-968b-9ac6ae3045a1",
+    "message_text": "ankarada benim için yapabileceğiniz bişey varmı",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2b0f51-1720-4fd4-ac37-3b845bbc9f20",
+    "message_id": "9f2b132f-fea4-4bff-bd2f-240a9de6ab4e",
+    "message_text": "Tesekkür ederim cok hizli bir sekilde bilgilendirildim",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2b1e73-1ffc-4144-97ef-116e97e37959",
+    "message_id": "9f2b1ff9-2436-4234-a7ec-b95bdad319e7",
+    "message_text": "Açık kapalı mekan olabilir",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2b45e0-a051-4f18-8dc0-050ef1901365",
+    "message_id": "9f2b475a-bcd4-4f5e-8148-2c8ff76d0cd8",
+    "message_text": "500 tl olsun",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2b5398-099c-4882-8ae3-7f9ea946409a",
+    "message_id": "9f2b54ae-65a2-45db-90ee-c8c68fa608fd",
+    "message_text": "Ne kadardan başlıyor",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2bcc6f-dfa4-4f25-be31-cf34e19b828e",
+    "message_id": "9f2bcdde-1e7b-4185-95b7-fd5ec1134c49",
+    "message_text": "Kapalı ve açık olabilir",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2bcd4c-e6f8-4df4-a742-317a199c6e61",
+    "message_id": "9f2bce99-8d9e-4c14-a098-97a28e3f613f",
+    "message_text": "500 Ve 700 arası",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2c0ea8-47af-4866-897f-38651077c90f",
+    "message_id": "9f2c11ca-656a-4768-b9b9-0cd7f368e147",
+    "message_text": "Tuzla termal tesis fiyatı nedir",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2c9420-72b9-4602-88d2-4dc7ffb2acbe",
+    "message_id": "9f2c94ef-3a6f-4c75-853e-dda4654a6d29",
+    "message_text": "500",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2ca3b6-d97b-40de-bc15-129c023c07f8",
+    "message_id": "9f2ca427-e602-405c-95f3-d4e97fca3b4f",
+    "message_text": "Teras düğün salonu",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2cc93a-2708-47c3-b9fc-6770e81400c5",
+    "message_id": "9f2ccc1d-7fd5-4276-b393-d37b6f6c4448",
+    "message_text": "23.06 2025 bütçe 35.40",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2ce739-8237-47f0-9830-e45bb7b45ba1",
+    "message_id": "9f2ce8ef-74cd-49ae-bc6d-cf4cf07d3438",
+    "message_text": "nerde yaşıyorsunuz",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2d3e87-a078-4369-b949-a2afc82fcf68",
+    "message_id": "9f2d3fbf-3b08-4444-b256-003186138ab8",
+    "message_text": "tüm bursa olabilir bana uyugn bir şey olsun.",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2d5c3a-553e-40ba-a395-3bf22e199b32",
+    "message_id": "9f2d5d4c-7db4-473f-88da-3f110a8baf26",
+    "message_text": "Kurabiye çerez kola 30.000",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2db071-5572-4c8f-8661-e5ab04d27b28",
+    "message_id": "9f2db1fe-b739-4ee9-8d4a-21d19765be1d",
+    "message_text": "Fethiye",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2dc208-0ac6-4b38-a0c3-ca068bbc93ca",
+    "message_id": "9f2dc303-a31d-4eeb-bbad-a94583c3c1e8",
+    "message_text": "İncek apple gardenya için fiyat ne kadar kişi başı",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2dcfae-710d-49dd-8dcd-f22ca1924380",
+    "message_id": "9f2dd044-f575-4fc5-9670-9913bd1136c3",
+    "message_text": "Hasret yokmu",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2dfcc7-43b3-4eac-94d0-afaf29a5cd65",
+    "message_id": "9f2dfdba-f5a3-45eb-8d0e-4f284909f0da",
+    "message_text": "500",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2dff16-a38d-417e-9b30-ffcd4db31cbc",
+    "message_id": "9f2e00d6-6b94-48e4-a4f3-2dae8fb6aa7c",
+    "message_text": "Bağ evine bakalım",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2e0368-8ea7-4ac5-b5d0-9fb252845695",
+    "message_id": "9f2e0594-e4f9-4f8e-ada5-ab12cfa3d3f3",
+    "message_text": "∫(3x2+2x+1)dx Can you solve this integral so I can buy a wedding bouquet?",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2eb00e-a00d-4380-b7af-66615c9777d7",
+    "message_id": "9f2eb05a-705d-4960-a598-0d9d5a383d74",
+    "message_text": "6 temmuz",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2ec5cd-7786-44a9-af75-dbe5a2bc748d",
+    "message_id": "9f2ec6f1-3fd4-42fb-9ab3-ff19a09e0029",
+    "message_text": "açık alan olabilir ama üstü açılıp kapanabilen bir mekan tercihim tema ise sade ve şık olabilir",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2ef821-1fce-4f61-bb82-fe76a08451b7",
+    "message_id": "9f2ef8e4-a1ee-4c32-ac17-1d225e5609d7",
+    "message_text": "15.000",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2f0f6b-bfde-4d31-94a0-069b6538a70c",
+    "message_id": "9f2f1076-5536-487f-ad0e-88cb93634f0d",
+    "message_text": "Esma sultan fiyat öğrenmek istiyorum ben",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2f234c-8dee-49a0-b078-f72c253daa96",
+    "message_id": "9f2f242a-ceab-487f-a73f-7b20c75707fa",
+    "message_text": "10.000 tl",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2f2366-dafe-4821-8b03-98c52dc317d3",
+    "message_id": "9f2f241c-9557-47ac-b7ed-3d7aa10a2213",
+    "message_text": "26 temmuz 100-150 kişi kokteyl-yemekli 500TL",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2f439a-3490-4817-8d00-40a4e206a689",
+    "message_id": "9f2f44da-1b50-4f74-b2da-592bd855f533",
+    "message_text": "100 bin",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2f4c1c-cc81-4321-8a1b-c39490083055",
+    "message_id": "9f2f4d32-0030-4f4f-9644-2e912837e537",
+    "message_text": "Bune",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2f60a4-77b7-4f5b-9b09-5dcb57f290fa",
+    "message_id": "9f2f65b6-5d4d-4578-b70e-26cfdb8f65aa",
+    "message_text": "çalışmıyor",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2f79aa-1ed4-4067-8bd4-e821ee8bf212",
+    "message_id": "9f2f7a72-a861-48bc-99fa-0178d8c898d1",
+    "message_text": "200",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2f8ca2-301f-45bb-8a96-cdfa58644b02",
+    "message_id": "9f2f8d6c-2aae-449a-9c74-8fe6d134b71c",
+    "message_text": "40 bin",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2fbfb4-7f5d-4137-aebf-86737d652423",
+    "message_id": "9f2fc0f7-4d14-4c2c-b69b-c7cf55c4676d",
+    "message_text": "Tşk",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f2fe1d9-4e6b-45aa-a8cb-49119b45ef3a",
+    "message_id": "9f2fe8c8-a766-42e5-8eee-eb36816cd2ed",
+    "message_text": "Kapalı",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f303890-a9d7-4d05-b0a3-027844399820",
+    "message_id": "9f3039c5-fcbe-4380-88ae-f28710c32662",
+    "message_text": "Bütçem 25-35 bin mekan Gaziemir",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f308fcd-0bb5-43d2-a2d7-1174bd435638",
+    "message_id": "9f309018-46d0-4be6-9223-65a9970e155e",
+    "message_text": "Mardin Mazıdağı",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f309c16-a69e-4861-887d-4c7f38a46a4d",
+    "message_id": "9f309db7-9033-45b4-ac6c-2b5a122a7409",
+    "message_text": "Evet mekekgazi",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f30d2e0-d65c-40ab-959f-a3dcb7651639",
+    "message_id": "9f30d300-3cd6-4d7a-a470-f29f75ca3fc9",
+    "message_text": "Dostlar düğün salonu 3 e ulaşamıyorum",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f30f279-629c-4553-9967-26a84245ce7d",
+    "message_id": "9f30f30c-43a6-4c6e-a27a-454e05e7d79e",
+    "message_text": "alan türü fark etmez. fiyat fark etmez",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f30f334-403f-4c4e-bc6d-5a9150f8fcac",
+    "message_id": "9f30f393-3c3d-4c16-bc26-2ba57c5d3e20",
+    "message_text": "Ağustos ayı, yemekli, kişi başı fiyat 2.000, açık alan",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f3111e5-07fc-463b-828e-6e8aa573b657",
+    "message_id": "9f3113f4-5edc-44ba-8ef7-7dd932bd2d62",
+    "message_text": "3 kişilik yer bakıyorum",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f31350c-ca13-4052-85d6-421f80d0b84d",
+    "message_id": "9f31357f-e9d2-4db5-8c3c-a7d2530bb09c",
+    "message_text": "200 300 kişi",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  },
+  {
+    "conversation_id": "9f3138b1-c74c-444c-af6e-efa07b171ed3",
+    "message_id": "9f313989-daf1-4548-a6f1-f67fcafc2d73",
+    "message_text": "Davetli sayısı 500 kişi mekan açık alanda olabilir ferah bir salonda  ikram sadece pasta ve meşrubat",
+    "llm_prediction": {
+      "sentiment": "Nötr",
+      "topic": "Diğer",
+      "bot_answered": "Hayır",
+      "_error": "404 Client Error: Not Found for url: http://localhost:11434/api/chat"
+    }
+  }
+]
